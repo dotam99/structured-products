@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@airswap/utils": "0.4.2",
-    "@chainlink/contracts": "0.0.10",
+    "@chainlink/contracts": "0.1.6",
     "@openzeppelin/contracts": "^3.2.0",
     "@openzeppelin/contracts-upgradeable": "^3.4.1",
     "@openzeppelin/upgrades": "^2.8.0",
