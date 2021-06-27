@@ -15,7 +15,7 @@
     "@openzeppelin/upgrades": "^2.8.0",
     "axios": "^0.21.1",
     "truffle-contract-size": "^2.0.0",
-    "truffle-plugin-verify": "^0.5.7"
+    "truffle-plugin-verify": "^0.5.8"
   },
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.1",
