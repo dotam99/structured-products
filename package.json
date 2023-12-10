@@ -10,8 +10,8 @@
   "dependencies": {
     "@airswap/utils": "0.4.2",
     "@chainlink/contracts": "0.1.6",
-    "@openzeppelin/contracts": "^3.2.0",
-    "@openzeppelin/contracts-upgradeable": "^3.4.1",
+    "@openzeppelin/contracts": "^4.9.5",
+    "@openzeppelin/contracts-upgradeable": "^4.9.5",
     "@openzeppelin/upgrades": "^2.8.0",
     "axios": "^0.21.1",
     "truffle-contract-size": "^2.0.0",
